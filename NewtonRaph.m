@@ -2,7 +2,7 @@ clear; clc; close all;
 
 syms x
 y(x)=myfunc(x)
-py(x)=primemyfunc(y)
+py(x)=diff(y)
 
 es=input('Enter es: ');     %수렴 조건을 위한 오차범위 설정
 maxi=input('Enter maximum iteration(default is 10^5): ');  %최대 반복횟수 설정
