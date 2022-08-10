@@ -7,7 +7,7 @@ This Newton Raphson Method is based on
 <pre>
 <code>
  
- <img src = "GaoRy-127/NewtonRaph/Base Idea.png">
+ <img src = "https://github.com/GaoRy-127/NewtonRaph/blob/main/Base%20Idea.png">
  
 </code>
 </pre>
