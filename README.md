@@ -6,7 +6,8 @@ Newton Raphson Method on matlab
 This Newton Raphson Method is based on
 <pre>
 <code>
- x_(i+1) = x_(i) -  
-
+ 
+ <img src = "GaoRy-127/NewtonRaph/Base Idea.png">
+ 
 </code>
 </pre>
