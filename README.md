@@ -24,10 +24,10 @@ The algorithm of this code is based on
 
 ## Others..   
  * I made this code to do my college assignment.   
-   After making this, I compare to codes that uploaded at Matwork homepage.   
-   And then, I though,   
+   After making this, I compare mine with [the codes](https://kr.mathworks.com/matlabcentral/fileexchange/68885-the-newton-raphson-method) that uploaded at Mathworks homepage.   
+   And then, I thought,   
    > _"oh shit, my code is more **user friendly** than uploaded codes."_  
    > 
    > **(Actually, it's not. Just my opinion)** 
       
-  * I am just hoping that my code can help other undergraduate students.
+  * I am hoping that my code can help other undergraduate students' assignments
