@@ -3,9 +3,9 @@ Newton Raphson Method on matlab
 <br/><br/>
 
 ## Basic Idea
-This Newton Raphson Method is based on  
+The algorithm of this code is based on  
 
-   > <img src = "https://github.com/GaoRy-127/NewtonRaph/blob/main/Base%20Idea.png" width="250" height="100">  
+   > <img src = "https://github.com/GaoRy-127/NewtonRaph/blob/main/Base%20Idea.png" width="200" height="90">  
  
 ## Discription
  * First
