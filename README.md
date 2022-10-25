@@ -17,7 +17,7 @@ The algorithm of this code is based on
    
  * Third   
   
-   Program will stop in 3 situations.
+   Program will  in 3 situations.
    + First, when error is bigger than lastest one.
    + Second, when the error value converge to the error value you set
    + Third, when the number of iteration reaches to number you set
